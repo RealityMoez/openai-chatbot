@@ -4,7 +4,7 @@ This is a Github repository for the deployment of OpenAI chatbot. The purpose of
 
 # Stack
 
-The following technologies were used in building this chatbot:
+The following technologies were used:
 - `HTML`
 - `CSS`
 - `JavaScript`
