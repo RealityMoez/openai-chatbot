@@ -11,7 +11,7 @@ The following technologies were used in building this chatbot:
 - `OpenAI API`
 
 # Demo
-To see the chatbot in action, please visit [this demo page](https://text-davinci.vercel.app){:target="_blank" rel="noopener"} .
+To see the chatbot in action, please visit [this demo page](https://text-davinci.vercel.app).
 
 # Feedback
 If you have any feedback or suggestions, please open an issue or a pull request.
