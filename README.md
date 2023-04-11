@@ -2,14 +2,6 @@
 
 This is a Github repository for the deployment of OpenAI chatbot. The purpose of this project is to provide users with a chatbot that is capable of natural language processing and can be customized to fit specific use cases. 
 
-# Stack
-
-The following technologies were used:
-- `HTML`
-- `CSS`
-- `JavaScript`
-- `OpenAI API`
-
 # Demo
 To see the chatbot in action, you can visit [this demo page](https://text-davinci.vercel.app).
 
