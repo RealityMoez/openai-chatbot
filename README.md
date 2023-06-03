@@ -4,7 +4,7 @@ This is a Github repository for the deployment of OpenAI chatbot. The purpose of
 
 ---
 ## Demo
-To see the chatbot in action, you can visit [this demo page](https://text-davinci.vercel.app).
+To see the chatbot in action, you can visit [this demo page](https://risu.vercel.app).
 
 ---
 ## Feedback
